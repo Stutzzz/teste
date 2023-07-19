@@ -1,5 +1,5 @@
 # teste
- teste do githubu desktop
+ teste do github desktop
 
  alterando linha para fazer meu primeiro commit
 
